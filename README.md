@@ -1,3 +1,17 @@
+# Tic-Tac-Toe React App
+
+## Functionality
+
+This is a classic Tic-Tac-Toe game built with React. The app allows two players to play against each other on a 3x3 grid. Key features include:
+
+- **Interactive Gameplay:** Players take turns clicking squares to place their mark (X or O).
+- **Win Detection:** The app automatically detects when a player has won or when the game ends in a draw.
+- **Move History:** Players can navigate through the move history and jump to any previous state of the game.
+- **Confetti Celebration:** When a player wins, confetti is displayed on the screen for a celebratory effect.
+- **Winning Sound:** A winning sound effect (win.mp3) is played when a player wins the game. Ensure the `win.mp3` file is present in the `public/` directory for this feature to work.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
